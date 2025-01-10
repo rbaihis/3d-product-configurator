@@ -23,6 +23,17 @@ This project was created as part of a Full Stack Developer internship assignment
 - **Three.js**: For rendering 3D shapes.
 - **Tailwind CSS**: For styling the application in a responsive manner.
 
+## Dependencies
+
+The following versions of the core dependencies were used for this project:
+
+- **Next.js**: `15.1.4`
+- **React**: `19.0.0`
+- **React-DOM**: `19.0.0`
+- **Three.js**: `0.172.0`
+- **Tailwind CSS**: `3.4.17`
+- **TypeScript**: `5.7.3`
+
 ## Installation Instructions
 
 To get the project up and running locally, follow these steps:
