@@ -10,7 +10,6 @@ This repository contains the code for a 3D Product Configurator built with Next.
 - [Installation Instructions](#installation-instructions)
 - [Features](#features)
 - [File Structure](#file-structure)
-- [How to Run the Project](#how-to-run-the-project)
 - [Acknowledgments](#acknowledgments)
 
 ---
